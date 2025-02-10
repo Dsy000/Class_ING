@@ -6,7 +6,7 @@
 
 #define PORT 8080
 #define BUF_SIZE 1024
-//UDP_ver
+//UDP_Client
 
 int main() {
     int sock;
